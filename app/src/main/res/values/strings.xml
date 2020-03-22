@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Swipe Quiz</string>
+    <string name="tvInstructions">Quiz instructions</string>
+    <string name="tvDescription">Swipe left for false, swipe right for true.</string>
+</resources>
