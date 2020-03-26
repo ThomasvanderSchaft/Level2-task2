@@ -4,6 +4,7 @@ data class Question(
     var questionText: String,
     var answer: Boolean
 ) {
+    //assigns values to the predefined variables questionText and answer
     companion object {
         val QUESTIONS = arrayOf(
             "A 'val' and 'var' are the same.",
